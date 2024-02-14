@@ -1,5 +1,8 @@
 # Technical Test Frontend Hara Anargya
 
+Nama: Lazuardi Muhammad Azizi
+Email: aziziardi7@gmail.com
+
 ## Installation
 * Fork Repo ini
 * Clone Repo ini
